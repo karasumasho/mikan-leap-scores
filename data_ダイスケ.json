@@ -5,5 +5,12 @@
     ],
     "en_choice": [],
     "en_typing": []
+  },
+  "oppose": {
+    "ja_choice": [
+      true
+    ],
+    "en_choice": [],
+    "en_typing": []
   }
 }
