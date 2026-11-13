@@ -152,5 +152,12 @@
       true
     ],
     "en_typing": []
+  },
+  "landscape": {
+    "ja_choice": [],
+    "en_choice": [
+      true
+    ],
+    "en_typing": []
   }
 }
