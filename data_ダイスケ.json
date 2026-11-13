@@ -124,5 +124,12 @@
     ],
     "en_choice": [],
     "en_typing": []
+  },
+  "polite": {
+    "ja_choice": [
+      true
+    ],
+    "en_choice": [],
+    "en_typing": []
   }
 }
