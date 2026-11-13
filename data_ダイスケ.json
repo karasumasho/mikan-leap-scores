@@ -131,5 +131,12 @@
     ],
     "en_choice": [],
     "en_typing": []
+  },
+  "characteristic": {
+    "ja_choice": [
+      false
+    ],
+    "en_choice": [],
+    "en_typing": []
   }
 }
