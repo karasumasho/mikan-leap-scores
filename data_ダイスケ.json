@@ -159,5 +159,12 @@
       true
     ],
     "en_typing": []
+  },
+  "silly": {
+    "ja_choice": [],
+    "en_choice": [
+      true
+    ],
+    "en_typing": []
   }
 }
