@@ -26,5 +26,12 @@
     ],
     "en_choice": [],
     "en_typing": []
+  },
+  "offer": {
+    "ja_choice": [
+      true
+    ],
+    "en_choice": [],
+    "en_typing": []
   }
 }
