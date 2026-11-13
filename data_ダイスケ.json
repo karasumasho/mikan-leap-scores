@@ -12,5 +12,12 @@
     ],
     "en_choice": [],
     "en_typing": []
+  },
+  "blame": {
+    "ja_choice": [
+      true
+    ],
+    "en_choice": [],
+    "en_typing": []
   }
 }
