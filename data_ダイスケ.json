@@ -180,5 +180,12 @@
       false
     ],
     "en_typing": []
+  },
+  "bloom": {
+    "ja_choice": [],
+    "en_choice": [],
+    "en_typing": [
+      true
+    ]
   }
 }
