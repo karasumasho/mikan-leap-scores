@@ -33,5 +33,12 @@
     ],
     "en_choice": [],
     "en_typing": []
+  },
+  "claim": {
+    "ja_choice": [
+      true
+    ],
+    "en_choice": [],
+    "en_typing": []
   }
 }
