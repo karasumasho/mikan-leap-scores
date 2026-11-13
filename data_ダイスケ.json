@@ -138,5 +138,12 @@
     ],
     "en_choice": [],
     "en_typing": []
+  },
+  "freeze": {
+    "ja_choice": [],
+    "en_choice": [
+      true
+    ],
+    "en_typing": []
   }
 }
