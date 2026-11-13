@@ -54,5 +54,12 @@
     ],
     "en_choice": [],
     "en_typing": []
+  },
+  "advise": {
+    "ja_choice": [
+      true
+    ],
+    "en_choice": [],
+    "en_typing": []
   }
 }
