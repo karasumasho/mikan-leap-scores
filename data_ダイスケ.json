@@ -201,5 +201,12 @@
     "en_typing": [
       false
     ]
+  },
+  "quality": {
+    "ja_choice": [],
+    "en_choice": [],
+    "en_typing": [
+      true
+    ]
   }
 }
