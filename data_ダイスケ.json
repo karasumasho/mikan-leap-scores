@@ -173,5 +173,12 @@
       true
     ],
     "en_typing": []
+  },
+  "strict": {
+    "ja_choice": [],
+    "en_choice": [
+      false
+    ],
+    "en_typing": []
   }
 }
