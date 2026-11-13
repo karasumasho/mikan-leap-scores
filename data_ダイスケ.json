@@ -194,5 +194,12 @@
     "en_typing": [
       true
     ]
+  },
+  "major": {
+    "ja_choice": [],
+    "en_choice": [],
+    "en_typing": [
+      false
+    ]
   }
 }
