@@ -68,5 +68,12 @@
     ],
     "en_choice": [],
     "en_typing": []
+  },
+  "seed": {
+    "ja_choice": [
+      true
+    ],
+    "en_choice": [],
+    "en_typing": []
   }
 }
